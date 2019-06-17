@@ -72,6 +72,16 @@ class TodoList {
             console.log("checkbox was clicked")
             // this.entryField = document.createElement('div');
 
+            // let oldTodos = this.taskItems;
+
+            //     this.taskItems = [];
+
+            //     this.taskItems.forEach(oldTodos, function (todo) {
+
+            //         if (!todoItems.completed) this.taskItems.push(todo);
+
+            //     });
+
             hideItems = !hideItems;
 
             // if(listCheckbox == false){

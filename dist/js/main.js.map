@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["todo","TodoList"],"mappings":";;AAAA;AACA;AACA,IAAMA,IAAI,GAAG,IAAIC,QAAJ,CAAa,YAAb,CAAb","sourcesContent":["// we don't need to refer to this later, so don't really\n// need to assign it to a variable\nconst todo = new TodoList('.todo-list');"],"file":"main.js"}
